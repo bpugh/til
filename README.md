@@ -6,14 +6,14 @@ I'm hoping this will motivate me to more consistently post things so feel free t
 I've been doing web dev for over a decade and still feel like I'm regularly learning things I "should have known" so hopefully this serves as a reminder that we're all just constantly learning.
 
 
-_28 TILs and counting..._
+_30 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [---](devtools/css-changes.md) - Tue Aug 15 18:19:46 2023 -0500
-- [---](azure/awesome-azd.md) - Sat Aug 12 07:40:32 2023 -0500
+- [---](git/ignore-revs-file.md) - Thu Aug 17 21:33:39 2023 -0500
+- [---](git/branch-force.md) - Thu Aug 17 21:32:37 2023 -0500
 
 ### Categories
 
@@ -63,8 +63,10 @@ _28 TILs and counting..._
 - [---](documentation/sequence-diagrams.md)
 
 ### [git](#git)
+- [---](git/branch-force.md)
 - [---](git/git-extensions.md)
 - [---](git/git-pickaxe.md)
+- [---](git/ignore-revs-file.md)
 - [---](git/reset-keep.md)
 
 ### [html](#html)
