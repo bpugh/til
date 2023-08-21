@@ -2,9 +2,11 @@ from datetime import timezone
 import git
 import pathlib
 import sqlite_utils
+import re
 
 
 root = pathlib.Path(__file__).parent.resolve()
+pattern = r'date:\s+(\d{4}-\d{2}-\d{2})'
 
 
 def created_changed_times(repo_path, ref="main"):
@@ -36,7 +38,9 @@ def build_database(repo_path):
     for filepath in root.glob("*/*.md"):
         fp = filepath.open()
         fp.readline()
-        fp.readline()
+        date_line = fp.readline()
+        match = re.search(pattern, date_line)
+        extracted_date = match.group(1)
         fp.readline()
         fp.readline()
         title = fp.readline().lstrip("#").strip()
@@ -51,7 +55,7 @@ def build_database(repo_path):
             "url": url,
             "body": body,
         }
-        record.update(all_times[path])
+        record.update(extracted_date)
         table.insert(record)
     if "til_fts" not in db.table_names():
         table.enable_fts(["title", "body"])
