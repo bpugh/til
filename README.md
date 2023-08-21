@@ -7,7 +7,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ---
 <!-- index starts -->
-30 TILs and counting...
+31 TILs and counting...
 
 ## visual-studio
 
@@ -84,6 +84,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 ## typescript
 
 * [Nominal types in Typescript](https://github.com/bpugh/til/blob/main/typescript/nominal-types.md) - 2023-08-01
+* [Pretty Typescript errors Vscode extension](https://github.com/bpugh/til/blob/main/typescript/error-extension.md) - 2023-08-21
 
 ## react
 
