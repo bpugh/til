@@ -52,10 +52,11 @@ def build_database(repo_path):
             "path": path.replace("/", "_"),
             "topic": path.split("/")[0],
             "title": title,
+            "date": extracted_date,
             "url": url,
             "body": body,
         }
-        record.update(extracted_date)
+        record.update(all_times[path])
         table.insert(record)
     if "til_fts" not in db.table_names():
         table.enable_fts(["title", "body"])

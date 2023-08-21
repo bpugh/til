@@ -20,7 +20,7 @@ if __name__ == "__main__":
         for row in rows:
             index.append(
                 "* [{title}]({url}) - {date}".format(
-                    date=row["created"].split("T")[0], **row
+                    date=row["date"], **row
                 )
             )
         index.append("")
