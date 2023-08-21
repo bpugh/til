@@ -14,6 +14,7 @@ if __name__ == "__main__":
     for row in db["til"].rows_where(order_by="created_utc"):
         by_topic.setdefault(row["topic"], []).append(row)
     index = ["<!-- index starts -->"]
+    index.append(f'{db["til"].count} TILs and counting...\n')
     for topic, rows in by_topic.items():
         index.append("## {}\n".format(topic))
         for row in rows:
