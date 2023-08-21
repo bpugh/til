@@ -5,9 +5,6 @@ Inspired by [others](https://github.com/jbranchaud/til) I've [seen](https://gith
 I'm hoping this will motivate me to more consistently post things so feel free to poke me if it's been a while.
 I've been doing web dev for over a decade and still feel like I'm regularly learning things I "should have known" so hopefully this serves as a reminder that we're all just constantly learning.
 
-
-_30 TILs and counting..._
-
 ---
 <!-- index starts -->
 30 TILs and counting...
