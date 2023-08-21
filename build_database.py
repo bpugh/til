@@ -35,7 +35,11 @@ def build_database(repo_path):
     table = db.table("til", pk="path")
     for filepath in root.glob("*/*.md"):
         fp = filepath.open()
-        title = fp.readline().readline().readline().readline().readline().lstrip("#").strip()
+        fp.readline()
+        fp.readline()
+        fp.readline()
+        fp.readline()
+        title = fp.readline().lstrip("#").strip()
         body = fp.read().strip()
         path = str(filepath.relative_to(root))
         url = "https://github.com/bpugh/til/blob/main/{}".format(path)
