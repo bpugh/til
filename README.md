@@ -7,7 +7,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ---
 <!-- index starts -->
-31 TILs and counting...
+38 TILs and counting...
 
 ## visual-studio
 
@@ -27,6 +27,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 ## css
 
 * [Stacking context affects z-index](https://github.com/bpugh/til/blob/main/css/stacking-context.md) - 2023-06-30
+* [CSS accent-color property](https://github.com/bpugh/til/blob/main/css/accent-color.md) - 2023-09-07
 
 ## powershell
 
@@ -36,6 +37,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 * [Use the Chrome devtools recorder to automate UI testing](https://github.com/bpugh/til/blob/main/devtools/devtools-recorder.md) - 2023-07-11
 * [Find all CSS changes in Chrome DevTools](https://github.com/bpugh/til/blob/main/devtools/css-changes.md) - 2023-08-15
+* [Emulate page focus](https://github.com/bpugh/til/blob/main/devtools/emulate-focused-page.md) - 2023-08-28
 
 ## documentation
 
@@ -49,12 +51,14 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Git reset --keep](https://github.com/bpugh/til/blob/main/git/reset-keep.md) - 2023-08-09
 * [Git branch --force](https://github.com/bpugh/til/blob/main/git/branch-force.md) - 2023-08-16
 * [Ignore commits in Git Blame with --ignore-revs-file](https://github.com/bpugh/til/blob/main/git/ignore-revs-file.md) - 2023-08-17
+* [Delta pager for Git](https://github.com/bpugh/til/blob/main/git/delta-pager.md) - 2023-09-05
 
 ## vscode
 
 * [VS code can show the required HTML structure for a CSS selector](https://github.com/bpugh/til/blob/main/vscode/hover-css-selector.md) - 2023-07-21
 * [Paste a URL as a markdown link](https://github.com/bpugh/til/blob/main/vscode/paste-markdown-url.md) - 2023-08-03
 * [You can easily wrap text with HTML tags](https://github.com/bpugh/til/blob/main/vscode/wrap-text-html.md) - 2023-07-27
+* [Dev containers](https://github.com/bpugh/til/blob/main/vscode/devcontainers.md) - 2023-09-11
 
 ## docker
 
@@ -72,6 +76,8 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 * [Strong typing with JSDoc and Zod](https://github.com/bpugh/til/blob/main/javascript/types-with-jsdoc.md) - 2023-07-13
 * [Javascript Array.prototype.with()](https://github.com/bpugh/til/blob/main/javascript/array-with.md) - 2023-08-11
+* [Object.fromEntries](https://github.com/bpugh/til/blob/main/javascript/from-entries.md) - 2023-08-30
+* [Null values in javascript interpolated strings](https://github.com/bpugh/til/blob/main/javascript/string-interpolation-null.md) - 2023-09-01
 
 ## yaml
 
@@ -93,4 +99,8 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 ## azure
 
 * [Awesome AZD templates](https://github.com/bpugh/til/blob/main/azure/awesome-azd.md) - 2023-08-10
+
+## csharp
+
+* [Ternary in C# string interpolation](https://github.com/bpugh/til/blob/main/csharp/string-interpolation.md) - 2023-08-23
 <!-- index ends -->
