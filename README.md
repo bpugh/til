@@ -7,7 +7,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ---
 <!-- index starts -->
-38 TILs and counting...
+39 TILs and counting...
 
 ## visual-studio
 
@@ -78,6 +78,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Javascript Array.prototype.with()](https://github.com/bpugh/til/blob/main/javascript/array-with.md) - 2023-08-11
 * [Object.fromEntries](https://github.com/bpugh/til/blob/main/javascript/from-entries.md) - 2023-08-30
 * [Null values in javascript interpolated strings](https://github.com/bpugh/til/blob/main/javascript/string-interpolation-null.md) - 2023-09-01
+* [Mock service worker](https://github.com/bpugh/til/blob/main/javascript/mock-service-worker.md) - 2023-09-13
 
 ## yaml
 
