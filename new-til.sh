@@ -24,6 +24,8 @@ create_markdown_file() {
   echo "#" >> "${fullpath}"
 
   echo "Created ${fullpath} with YAML front matter."
+
+  code $fullpath
 }
 
 # Usage: new-til.sh <path> <filename>
