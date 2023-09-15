@@ -7,7 +7,17 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ---
 <!-- index starts -->
-39 TILs and counting...
+41 TILs and counting...
+
+## ai
+
+* [Use ChatGPT to explain bash scripts](https://github.com/bpugh/til/blob/main/ai/chatgpt-explains.md) - 2023-07-05
+
+## css
+
+* [Stacking context affects z-index](https://github.com/bpugh/til/blob/main/css/stacking-context.md) - 2023-06-30
+* [CSS accent-color property](https://github.com/bpugh/til/blob/main/css/accent-color.md) - 2023-09-07
+* [CSS Nesting](https://github.com/bpugh/til/blob/main/css/css-nesting.md) - 2023-09-14
 
 ## visual-studio
 
@@ -15,19 +25,10 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Visual Studio 2022 can stage individual lines in git](https://github.com/bpugh/til/blob/main/visual-studio/line-staging.md) - 2023-07-12
 * [You can save window layouts in Visual Studio](https://github.com/bpugh/til/blob/main/visual-studio/save-window-layout.md) - 2023-07-31
 
-## ai
-
-* [Use ChatGPT to explain bash scripts](https://github.com/bpugh/til/blob/main/ai/chatgpt-explains.md) - 2023-07-05
-
 ## sql-server
 
-* [Use a table variable to hold a list of values](https://github.com/bpugh/til/blob/main/sql-server/table-variables.md) - 2023-07-04
 * [Hid a table in sql server management studio](https://github.com/bpugh/til/blob/main/sql-server/system-table.md) - 2023-07-06
-
-## css
-
-* [Stacking context affects z-index](https://github.com/bpugh/til/blob/main/css/stacking-context.md) - 2023-06-30
-* [CSS accent-color property](https://github.com/bpugh/til/blob/main/css/accent-color.md) - 2023-09-07
+* [Use a table variable to hold a list of values](https://github.com/bpugh/til/blob/main/sql-server/table-variables.md) - 2023-07-04
 
 ## powershell
 
@@ -44,6 +45,10 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Sequence Diagrams](https://github.com/bpugh/til/blob/main/documentation/sequence-diagrams.md) - 2023-07-20
 * [The C4 model for visualizing software architecture](https://github.com/bpugh/til/blob/main/documentation/c4-model.md) - 2023-08-02
 
+## azure-devops
+
+* [Press `ctrl+enter` to submit a comment on Azure DevOps](https://github.com/bpugh/til/blob/main/azure-devops/submit-comment-hotkey.md) - 2023-07-19
+
 ## git
 
 * [Git Extensions git client](https://github.com/bpugh/til/blob/main/git/git-extensions.md) - 2023-07-18
@@ -56,42 +61,39 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 ## vscode
 
 * [VS code can show the required HTML structure for a CSS selector](https://github.com/bpugh/til/blob/main/vscode/hover-css-selector.md) - 2023-07-21
-* [Paste a URL as a markdown link](https://github.com/bpugh/til/blob/main/vscode/paste-markdown-url.md) - 2023-08-03
 * [You can easily wrap text with HTML tags](https://github.com/bpugh/til/blob/main/vscode/wrap-text-html.md) - 2023-07-27
+* [Paste a URL as a markdown link](https://github.com/bpugh/til/blob/main/vscode/paste-markdown-url.md) - 2023-08-03
 * [Dev containers](https://github.com/bpugh/til/blob/main/vscode/devcontainers.md) - 2023-09-11
-
-## docker
-
-* [lazydocker](https://github.com/bpugh/til/blob/main/docker/lazydocker.md) - 2023-07-24
-
-## html
-
-* [A hidden button in an HTML form can be submitted](https://github.com/bpugh/til/blob/main/html/hidden-button-still-submits.md) - 2023-07-25
-
-## azure-devops
-
-* [Press `ctrl+enter` to submit a comment on Azure DevOps](https://github.com/bpugh/til/blob/main/azure-devops/submit-comment-hotkey.md) - 2023-07-19
 
 ## javascript
 
 * [Strong typing with JSDoc and Zod](https://github.com/bpugh/til/blob/main/javascript/types-with-jsdoc.md) - 2023-07-13
 * [Javascript Array.prototype.with()](https://github.com/bpugh/til/blob/main/javascript/array-with.md) - 2023-08-11
-* [Object.fromEntries](https://github.com/bpugh/til/blob/main/javascript/from-entries.md) - 2023-08-30
 * [Null values in javascript interpolated strings](https://github.com/bpugh/til/blob/main/javascript/string-interpolation-null.md) - 2023-09-01
+* [Object.fromEntries](https://github.com/bpugh/til/blob/main/javascript/from-entries.md) - 2023-08-30
 * [Mock service worker](https://github.com/bpugh/til/blob/main/javascript/mock-service-worker.md) - 2023-09-13
 
-## yaml
+## html
 
-* [Multi-line string in YAML](https://github.com/bpugh/til/blob/main/yaml/multiline-strings.md) - 2023-08-04
+* [A hidden button in an HTML form can be submitted](https://github.com/bpugh/til/blob/main/html/hidden-button-still-submits.md) - 2023-07-25
+* [Disabling browser autofill in a form](https://github.com/bpugh/til/blob/main/html/disable-autocomplete.md) - 2023-09-15
 
-## azure-data-studio
+## docker
 
-* [Azure Data Studio can display nicely formatted JSON data](https://github.com/bpugh/til/blob/main/azure-data-studio/json-column.md) - 2023-07-26
+* [lazydocker](https://github.com/bpugh/til/blob/main/docker/lazydocker.md) - 2023-07-24
 
 ## typescript
 
 * [Nominal types in Typescript](https://github.com/bpugh/til/blob/main/typescript/nominal-types.md) - 2023-08-01
 * [Pretty Typescript errors Vscode extension](https://github.com/bpugh/til/blob/main/typescript/error-extension.md) - 2023-08-21
+
+## azure-data-studio
+
+* [Azure Data Studio can display nicely formatted JSON data](https://github.com/bpugh/til/blob/main/azure-data-studio/json-column.md) - 2023-07-26
+
+## yaml
+
+* [Multi-line string in YAML](https://github.com/bpugh/til/blob/main/yaml/multiline-strings.md) - 2023-08-04
 
 ## react
 
