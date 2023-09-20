@@ -7,7 +7,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ---
 <!-- index starts -->
-41 TILs and counting...
+42 TILs and counting...
 
 ## ai
 
@@ -106,4 +106,8 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 ## csharp
 
 * [Ternary in C# string interpolation](https://github.com/bpugh/til/blob/main/csharp/string-interpolation.md) - 2023-08-23
+
+## google
+
+* [Specify timestamp in Google Drive video URL](https://github.com/bpugh/til/blob/main/google/video-timestamp-query-param.md) - 2023-09-19
 <!-- index ends -->
