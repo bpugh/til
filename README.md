@@ -7,7 +7,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ---
 <!-- index starts -->
-42 TILs and counting...
+44 TILs and counting...
 
 ## ai
 
@@ -48,6 +48,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 ## azure-devops
 
 * [Press `ctrl+enter` to submit a comment on Azure DevOps](https://github.com/bpugh/til/blob/main/azure-devops/submit-comment-hotkey.md) - 2023-07-19
+* [Highlight text in markdown](https://github.com/bpugh/til/blob/main/azure-devops/markdown-highlight.md) - 2023-09-22
 
 ## git
 
@@ -57,6 +58,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Git branch --force](https://github.com/bpugh/til/blob/main/git/branch-force.md) - 2023-08-16
 * [Ignore commits in Git Blame with --ignore-revs-file](https://github.com/bpugh/til/blob/main/git/ignore-revs-file.md) - 2023-08-17
 * [Delta pager for Git](https://github.com/bpugh/til/blob/main/git/delta-pager.md) - 2023-09-05
+* [--update-refs won't update a ref if it's currently checked out in a working directory](https://github.com/bpugh/til/blob/main/git/update-refs-working-directory.md) - 2023-09-25
 
 ## vscode
 
