@@ -7,11 +7,16 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ---
 <!-- index starts -->
-44 TILs and counting...
+46 TILs and counting...
 
 ## ai
 
 * [Use ChatGPT to explain bash scripts](https://github.com/bpugh/til/blob/main/ai/chatgpt-explains.md) - 2023-07-05
+
+## sql-server
+
+* [Hid a table in sql server management studio](https://github.com/bpugh/til/blob/main/sql-server/system-table.md) - 2023-07-06
+* [Use a table variable to hold a list of values](https://github.com/bpugh/til/blob/main/sql-server/table-variables.md) - 2023-07-04
 
 ## css
 
@@ -25,11 +30,6 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Visual Studio 2022 can stage individual lines in git](https://github.com/bpugh/til/blob/main/visual-studio/line-staging.md) - 2023-07-12
 * [You can save window layouts in Visual Studio](https://github.com/bpugh/til/blob/main/visual-studio/save-window-layout.md) - 2023-07-31
 
-## sql-server
-
-* [Hid a table in sql server management studio](https://github.com/bpugh/til/blob/main/sql-server/system-table.md) - 2023-07-06
-* [Use a table variable to hold a list of values](https://github.com/bpugh/til/blob/main/sql-server/table-variables.md) - 2023-07-04
-
 ## powershell
 
 * [Run a bash script from Powershell](https://github.com/bpugh/til/blob/main/powershell/run-bash-script.md) - 2023-07-09
@@ -39,26 +39,6 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Use the Chrome devtools recorder to automate UI testing](https://github.com/bpugh/til/blob/main/devtools/devtools-recorder.md) - 2023-07-11
 * [Find all CSS changes in Chrome DevTools](https://github.com/bpugh/til/blob/main/devtools/css-changes.md) - 2023-08-15
 * [Emulate page focus](https://github.com/bpugh/til/blob/main/devtools/emulate-focused-page.md) - 2023-08-28
-
-## documentation
-
-* [Sequence Diagrams](https://github.com/bpugh/til/blob/main/documentation/sequence-diagrams.md) - 2023-07-20
-* [The C4 model for visualizing software architecture](https://github.com/bpugh/til/blob/main/documentation/c4-model.md) - 2023-08-02
-
-## azure-devops
-
-* [Press `ctrl+enter` to submit a comment on Azure DevOps](https://github.com/bpugh/til/blob/main/azure-devops/submit-comment-hotkey.md) - 2023-07-19
-* [Highlight text in markdown](https://github.com/bpugh/til/blob/main/azure-devops/markdown-highlight.md) - 2023-09-22
-
-## git
-
-* [Git Extensions git client](https://github.com/bpugh/til/blob/main/git/git-extensions.md) - 2023-07-18
-* [Git pickaxe](https://github.com/bpugh/til/blob/main/git/git-pickaxe.md) - 2023-08-07
-* [Git reset --keep](https://github.com/bpugh/til/blob/main/git/reset-keep.md) - 2023-08-09
-* [Git branch --force](https://github.com/bpugh/til/blob/main/git/branch-force.md) - 2023-08-16
-* [Ignore commits in Git Blame with --ignore-revs-file](https://github.com/bpugh/til/blob/main/git/ignore-revs-file.md) - 2023-08-17
-* [Delta pager for Git](https://github.com/bpugh/til/blob/main/git/delta-pager.md) - 2023-09-05
-* [--update-refs won't update a ref if it's currently checked out in a working directory](https://github.com/bpugh/til/blob/main/git/update-refs-working-directory.md) - 2023-09-25
 
 ## vscode
 
@@ -71,18 +51,44 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 * [Strong typing with JSDoc and Zod](https://github.com/bpugh/til/blob/main/javascript/types-with-jsdoc.md) - 2023-07-13
 * [Javascript Array.prototype.with()](https://github.com/bpugh/til/blob/main/javascript/array-with.md) - 2023-08-11
-* [Null values in javascript interpolated strings](https://github.com/bpugh/til/blob/main/javascript/string-interpolation-null.md) - 2023-09-01
 * [Object.fromEntries](https://github.com/bpugh/til/blob/main/javascript/from-entries.md) - 2023-08-30
+* [Null values in javascript interpolated strings](https://github.com/bpugh/til/blob/main/javascript/string-interpolation-null.md) - 2023-09-01
 * [Mock service worker](https://github.com/bpugh/til/blob/main/javascript/mock-service-worker.md) - 2023-09-13
+
+## git
+
+* [Git Extensions git client](https://github.com/bpugh/til/blob/main/git/git-extensions.md) - 2023-07-18
+* [Git pickaxe](https://github.com/bpugh/til/blob/main/git/git-pickaxe.md) - 2023-08-07
+* [Git reset --keep](https://github.com/bpugh/til/blob/main/git/reset-keep.md) - 2023-08-09
+* [Git branch --force](https://github.com/bpugh/til/blob/main/git/branch-force.md) - 2023-08-16
+* [Ignore commits in Git Blame with --ignore-revs-file](https://github.com/bpugh/til/blob/main/git/ignore-revs-file.md) - 2023-08-17
+* [Delta pager for Git](https://github.com/bpugh/til/blob/main/git/delta-pager.md) - 2023-09-05
+* [--update-refs won't update a ref if it's currently checked out in a working directory](https://github.com/bpugh/til/blob/main/git/update-refs-working-directory.md) - 2023-09-25
 
 ## html
 
 * [A hidden button in an HTML form can be submitted](https://github.com/bpugh/til/blob/main/html/hidden-button-still-submits.md) - 2023-07-25
 * [Disabling browser autofill in a form](https://github.com/bpugh/til/blob/main/html/disable-autocomplete.md) - 2023-09-15
+* [One-time code autocomplete](https://github.com/bpugh/til/blob/main/html/one-time-code-autocomplete.md) - 2023-09-27
+* [SVG sprites](https://github.com/bpugh/til/blob/main/html/svg-sprites.md) - 2023-09-28
+
+## azure-devops
+
+* [Press `ctrl+enter` to submit a comment on Azure DevOps](https://github.com/bpugh/til/blob/main/azure-devops/submit-comment-hotkey.md) - 2023-07-19
+* [Highlight text in markdown](https://github.com/bpugh/til/blob/main/azure-devops/markdown-highlight.md) - 2023-09-22
 
 ## docker
 
 * [lazydocker](https://github.com/bpugh/til/blob/main/docker/lazydocker.md) - 2023-07-24
+
+## documentation
+
+* [Sequence Diagrams](https://github.com/bpugh/til/blob/main/documentation/sequence-diagrams.md) - 2023-07-20
+* [The C4 model for visualizing software architecture](https://github.com/bpugh/til/blob/main/documentation/c4-model.md) - 2023-08-02
+
+## yaml
+
+* [Multi-line string in YAML](https://github.com/bpugh/til/blob/main/yaml/multiline-strings.md) - 2023-08-04
 
 ## typescript
 
@@ -92,10 +98,6 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 ## azure-data-studio
 
 * [Azure Data Studio can display nicely formatted JSON data](https://github.com/bpugh/til/blob/main/azure-data-studio/json-column.md) - 2023-07-26
-
-## yaml
-
-* [Multi-line string in YAML](https://github.com/bpugh/til/blob/main/yaml/multiline-strings.md) - 2023-08-04
 
 ## react
 
