@@ -7,7 +7,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ---
 <!-- index starts -->
-46 TILs and counting...
+47 TILs and counting...
 
 ## ai
 
@@ -46,6 +46,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [You can easily wrap text with HTML tags](https://github.com/bpugh/til/blob/main/vscode/wrap-text-html.md) - 2023-07-27
 * [Paste a URL as a markdown link](https://github.com/bpugh/til/blob/main/vscode/paste-markdown-url.md) - 2023-08-03
 * [Dev containers](https://github.com/bpugh/til/blob/main/vscode/devcontainers.md) - 2023-09-11
+* [Preserve case with find and replace](https://github.com/bpugh/til/blob/main/vscode/find-replace-preserve-case.md) - 2023-09-29
 
 ## javascript
 
