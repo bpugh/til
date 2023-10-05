@@ -7,7 +7,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ---
 <!-- index starts -->
-47 TILs and counting...
+50 TILs and counting...
 
 ## ai
 
@@ -65,6 +65,8 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Ignore commits in Git Blame with --ignore-revs-file](https://github.com/bpugh/til/blob/main/git/ignore-revs-file.md) - 2023-08-17
 * [Delta pager for Git](https://github.com/bpugh/til/blob/main/git/delta-pager.md) - 2023-09-05
 * [--update-refs won't update a ref if it's currently checked out in a working directory](https://github.com/bpugh/til/blob/main/git/update-refs-working-directory.md) - 2023-09-25
+* [git-absorb](https://github.com/bpugh/til/blob/main/git/git-absorb.md) - 2023-10-04
+* [push.autoSetupRemote](https://github.com/bpugh/til/blob/main/git/auto-setup-remote.md) - 2023-10-03
 
 ## html
 
@@ -72,6 +74,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Disabling browser autofill in a form](https://github.com/bpugh/til/blob/main/html/disable-autocomplete.md) - 2023-09-15
 * [One-time code autocomplete](https://github.com/bpugh/til/blob/main/html/one-time-code-autocomplete.md) - 2023-09-27
 * [SVG sprites](https://github.com/bpugh/til/blob/main/html/svg-sprites.md) - 2023-09-28
+* [Use the `valueAsNumber` property of html number inputs](https://github.com/bpugh/til/blob/main/html/valueAsNumber.md) - 2023-10-02
 
 ## azure-devops
 
