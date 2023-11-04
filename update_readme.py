@@ -13,18 +13,25 @@ if __name__ == "__main__":
     by_topic = {}
     for row in db["til"].rows_where(order_by="created_utc"):
         by_topic.setdefault(row["topic"], []).append(row)
+
+    # Sort the topics alphabetically
+    sorted_topics = sorted(by_topic.keys())
+
     index = ["<!-- index starts -->"]
     index.append(f'{db["til"].count} TILs and counting...\n')
-    for topic, rows in by_topic.items():
+
+    # Loop over the sorted topic list
+    for topic in sorted_topics:
+        rows = by_topic[topic]
         index.append("## {}\n".format(topic))
         for row in rows:
-            index.append(
-                "* [{title}]({url}) - {date}".format(**row)
-            )
+            index.append("* [{title}]({url}) - {date}".format(**row))
         index.append("")
+
     if index[-1] == "":
         index.pop()
     index.append("<!-- index ends -->")
+
     if "--rewrite" in sys.argv:
         readme = root / "README.md"
         index_txt = "\n".join(index).strip()
