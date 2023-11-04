@@ -7,11 +7,12 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ---
 <!-- index starts -->
-53 TILs and counting...
+59 TILs and counting...
 
 ## ai
 
 * [Use ChatGPT to explain bash scripts](https://github.com/bpugh/til/blob/main/ai/chatgpt-explains.md) - 2023-07-05
+* [Use ChatGPT to help you write architectural decision records](https://github.com/bpugh/til/blob/main/ai/chatgpt-to-help-write-adr.md) - 2023-11-03
 
 ## azure
 
@@ -25,10 +26,12 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 * [Press `ctrl+enter` to submit a comment on Azure DevOps](https://github.com/bpugh/til/blob/main/azure-devops/submit-comment-hotkey.md) - 2023-07-19
 * [Highlight text in markdown](https://github.com/bpugh/til/blob/main/azure-devops/markdown-highlight.md) - 2023-09-22
+* [Conditional logic in pipelines YAML](https://github.com/bpugh/til/blob/main/azure-devops/conditional-yaml.md) - 2023-10-16
 
 ## csharp
 
 * [Ternary in C# string interpolation](https://github.com/bpugh/til/blob/main/csharp/string-interpolation.md) - 2023-08-23
+* [Calling an extension method on a null instance](https://github.com/bpugh/til/blob/main/csharp/string-extension-method.md) - 2023-10-19
 
 ## css
 
@@ -51,6 +54,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 * [Sequence Diagrams](https://github.com/bpugh/til/blob/main/documentation/sequence-diagrams.md) - 2023-07-20
 * [The C4 model for visualizing software architecture](https://github.com/bpugh/til/blob/main/documentation/c4-model.md) - 2023-08-02
+* [Zeal offline documentation browser](https://github.com/bpugh/til/blob/main/documentation/zeal.md) - 2023-10-18
 
 ## git
 
@@ -76,6 +80,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [One-time code autocomplete](https://github.com/bpugh/til/blob/main/html/one-time-code-autocomplete.md) - 2023-09-27
 * [SVG sprites](https://github.com/bpugh/til/blob/main/html/svg-sprites.md) - 2023-09-28
 * [Use the `valueAsNumber` property of html number inputs](https://github.com/bpugh/til/blob/main/html/valueAsNumber.md) - 2023-10-02
+* [Blob URLs](https://github.com/bpugh/til/blob/main/html/blob-url.md) - 2023-11-02
 
 ## javascript
 
@@ -84,6 +89,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Object.fromEntries](https://github.com/bpugh/til/blob/main/javascript/from-entries.md) - 2023-08-30
 * [Null values in javascript interpolated strings](https://github.com/bpugh/til/blob/main/javascript/string-interpolation-null.md) - 2023-09-01
 * [Mock service worker](https://github.com/bpugh/til/blob/main/javascript/mock-service-worker.md) - 2023-09-13
+* [`every()` returns true for an empty array](https://github.com/bpugh/til/blob/main/javascript/every-returns-true-empty-array.md) - 2023-11-01
 
 ## powershell
 
