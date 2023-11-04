@@ -7,16 +7,28 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ---
 <!-- index starts -->
-50 TILs and counting...
+53 TILs and counting...
 
 ## ai
 
 * [Use ChatGPT to explain bash scripts](https://github.com/bpugh/til/blob/main/ai/chatgpt-explains.md) - 2023-07-05
 
-## sql-server
+## azure
 
-* [Hid a table in sql server management studio](https://github.com/bpugh/til/blob/main/sql-server/system-table.md) - 2023-07-06
-* [Use a table variable to hold a list of values](https://github.com/bpugh/til/blob/main/sql-server/table-variables.md) - 2023-07-04
+* [Awesome AZD templates](https://github.com/bpugh/til/blob/main/azure/awesome-azd.md) - 2023-08-10
+
+## azure-data-studio
+
+* [Azure Data Studio can display nicely formatted JSON data](https://github.com/bpugh/til/blob/main/azure-data-studio/json-column.md) - 2023-07-26
+
+## azure-devops
+
+* [Press `ctrl+enter` to submit a comment on Azure DevOps](https://github.com/bpugh/til/blob/main/azure-devops/submit-comment-hotkey.md) - 2023-07-19
+* [Highlight text in markdown](https://github.com/bpugh/til/blob/main/azure-devops/markdown-highlight.md) - 2023-09-22
+
+## csharp
+
+* [Ternary in C# string interpolation](https://github.com/bpugh/til/blob/main/csharp/string-interpolation.md) - 2023-08-23
 
 ## css
 
@@ -24,37 +36,21 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [CSS accent-color property](https://github.com/bpugh/til/blob/main/css/accent-color.md) - 2023-09-07
 * [CSS Nesting](https://github.com/bpugh/til/blob/main/css/css-nesting.md) - 2023-09-14
 
-## visual-studio
-
-* [Create new files faster](https://github.com/bpugh/til/blob/main/visual-studio/quick-add.md) - 2023-07-07
-* [Visual Studio 2022 can stage individual lines in git](https://github.com/bpugh/til/blob/main/visual-studio/line-staging.md) - 2023-07-12
-* [You can save window layouts in Visual Studio](https://github.com/bpugh/til/blob/main/visual-studio/save-window-layout.md) - 2023-07-31
-
-## powershell
-
-* [Run a bash script from Powershell](https://github.com/bpugh/til/blob/main/powershell/run-bash-script.md) - 2023-07-09
-
 ## devtools
 
 * [Use the Chrome devtools recorder to automate UI testing](https://github.com/bpugh/til/blob/main/devtools/devtools-recorder.md) - 2023-07-11
 * [Find all CSS changes in Chrome DevTools](https://github.com/bpugh/til/blob/main/devtools/css-changes.md) - 2023-08-15
 * [Emulate page focus](https://github.com/bpugh/til/blob/main/devtools/emulate-focused-page.md) - 2023-08-28
+* [Toggle CSS classes in Devtools](https://github.com/bpugh/til/blob/main/devtools/toggle-css-classes.md) - 2023-10-13
 
-## vscode
+## docker
 
-* [VS code can show the required HTML structure for a CSS selector](https://github.com/bpugh/til/blob/main/vscode/hover-css-selector.md) - 2023-07-21
-* [You can easily wrap text with HTML tags](https://github.com/bpugh/til/blob/main/vscode/wrap-text-html.md) - 2023-07-27
-* [Paste a URL as a markdown link](https://github.com/bpugh/til/blob/main/vscode/paste-markdown-url.md) - 2023-08-03
-* [Dev containers](https://github.com/bpugh/til/blob/main/vscode/devcontainers.md) - 2023-09-11
-* [Preserve case with find and replace](https://github.com/bpugh/til/blob/main/vscode/find-replace-preserve-case.md) - 2023-09-29
+* [lazydocker](https://github.com/bpugh/til/blob/main/docker/lazydocker.md) - 2023-07-24
 
-## javascript
+## documentation
 
-* [Strong typing with JSDoc and Zod](https://github.com/bpugh/til/blob/main/javascript/types-with-jsdoc.md) - 2023-07-13
-* [Javascript Array.prototype.with()](https://github.com/bpugh/til/blob/main/javascript/array-with.md) - 2023-08-11
-* [Object.fromEntries](https://github.com/bpugh/til/blob/main/javascript/from-entries.md) - 2023-08-30
-* [Null values in javascript interpolated strings](https://github.com/bpugh/til/blob/main/javascript/string-interpolation-null.md) - 2023-09-01
-* [Mock service worker](https://github.com/bpugh/til/blob/main/javascript/mock-service-worker.md) - 2023-09-13
+* [Sequence Diagrams](https://github.com/bpugh/til/blob/main/documentation/sequence-diagrams.md) - 2023-07-20
+* [The C4 model for visualizing software architecture](https://github.com/bpugh/til/blob/main/documentation/c4-model.md) - 2023-08-02
 
 ## git
 
@@ -67,6 +63,11 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [--update-refs won't update a ref if it's currently checked out in a working directory](https://github.com/bpugh/til/blob/main/git/update-refs-working-directory.md) - 2023-09-25
 * [git-absorb](https://github.com/bpugh/til/blob/main/git/git-absorb.md) - 2023-10-04
 * [push.autoSetupRemote](https://github.com/bpugh/til/blob/main/git/auto-setup-remote.md) - 2023-10-03
+* [Git rerere](https://github.com/bpugh/til/blob/main/git/rerere.md) - 2023-10-05
+
+## google
+
+* [Specify timestamp in Google Drive video URL](https://github.com/bpugh/til/blob/main/google/video-timestamp-query-param.md) - 2023-09-19
 
 ## html
 
@@ -76,46 +77,48 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [SVG sprites](https://github.com/bpugh/til/blob/main/html/svg-sprites.md) - 2023-09-28
 * [Use the `valueAsNumber` property of html number inputs](https://github.com/bpugh/til/blob/main/html/valueAsNumber.md) - 2023-10-02
 
-## azure-devops
+## javascript
 
-* [Press `ctrl+enter` to submit a comment on Azure DevOps](https://github.com/bpugh/til/blob/main/azure-devops/submit-comment-hotkey.md) - 2023-07-19
-* [Highlight text in markdown](https://github.com/bpugh/til/blob/main/azure-devops/markdown-highlight.md) - 2023-09-22
+* [Strong typing with JSDoc and Zod](https://github.com/bpugh/til/blob/main/javascript/types-with-jsdoc.md) - 2023-07-13
+* [Javascript Array.prototype.with()](https://github.com/bpugh/til/blob/main/javascript/array-with.md) - 2023-08-11
+* [Object.fromEntries](https://github.com/bpugh/til/blob/main/javascript/from-entries.md) - 2023-08-30
+* [Null values in javascript interpolated strings](https://github.com/bpugh/til/blob/main/javascript/string-interpolation-null.md) - 2023-09-01
+* [Mock service worker](https://github.com/bpugh/til/blob/main/javascript/mock-service-worker.md) - 2023-09-13
 
-## docker
+## powershell
 
-* [lazydocker](https://github.com/bpugh/til/blob/main/docker/lazydocker.md) - 2023-07-24
+* [Run a bash script from Powershell](https://github.com/bpugh/til/blob/main/powershell/run-bash-script.md) - 2023-07-09
 
-## documentation
+## react
 
-* [Sequence Diagrams](https://github.com/bpugh/til/blob/main/documentation/sequence-diagrams.md) - 2023-07-20
-* [The C4 model for visualizing software architecture](https://github.com/bpugh/til/blob/main/documentation/c4-model.md) - 2023-08-02
+* [Comment styles in React](https://github.com/bpugh/til/blob/main/react/single-line-comments.md) - 2023-08-08
 
-## yaml
+## sql-server
 
-* [Multi-line string in YAML](https://github.com/bpugh/til/blob/main/yaml/multiline-strings.md) - 2023-08-04
+* [Hid a table in sql server management studio](https://github.com/bpugh/til/blob/main/sql-server/system-table.md) - 2023-07-06
+* [Use a table variable to hold a list of values](https://github.com/bpugh/til/blob/main/sql-server/table-variables.md) - 2023-07-04
 
 ## typescript
 
 * [Nominal types in Typescript](https://github.com/bpugh/til/blob/main/typescript/nominal-types.md) - 2023-08-01
 * [Pretty Typescript errors Vscode extension](https://github.com/bpugh/til/blob/main/typescript/error-extension.md) - 2023-08-21
 
-## azure-data-studio
+## visual-studio
 
-* [Azure Data Studio can display nicely formatted JSON data](https://github.com/bpugh/til/blob/main/azure-data-studio/json-column.md) - 2023-07-26
+* [Create new files faster](https://github.com/bpugh/til/blob/main/visual-studio/quick-add.md) - 2023-07-07
+* [Visual Studio 2022 can stage individual lines in git](https://github.com/bpugh/til/blob/main/visual-studio/line-staging.md) - 2023-07-12
+* [You can save window layouts in Visual Studio](https://github.com/bpugh/til/blob/main/visual-studio/save-window-layout.md) - 2023-07-31
+* [Copy git link extension](https://github.com/bpugh/til/blob/main/visual-studio/copy-git-link.md) - 2023-10-11
 
-## react
+## vscode
 
-* [Comment styles in React](https://github.com/bpugh/til/blob/main/react/single-line-comments.md) - 2023-08-08
+* [VS code can show the required HTML structure for a CSS selector](https://github.com/bpugh/til/blob/main/vscode/hover-css-selector.md) - 2023-07-21
+* [Paste a URL as a markdown link](https://github.com/bpugh/til/blob/main/vscode/paste-markdown-url.md) - 2023-08-03
+* [You can easily wrap text with HTML tags](https://github.com/bpugh/til/blob/main/vscode/wrap-text-html.md) - 2023-07-27
+* [Dev containers](https://github.com/bpugh/til/blob/main/vscode/devcontainers.md) - 2023-09-11
+* [Preserve case with find and replace](https://github.com/bpugh/til/blob/main/vscode/find-replace-preserve-case.md) - 2023-09-29
 
-## azure
+## yaml
 
-* [Awesome AZD templates](https://github.com/bpugh/til/blob/main/azure/awesome-azd.md) - 2023-08-10
-
-## csharp
-
-* [Ternary in C# string interpolation](https://github.com/bpugh/til/blob/main/csharp/string-interpolation.md) - 2023-08-23
-
-## google
-
-* [Specify timestamp in Google Drive video URL](https://github.com/bpugh/til/blob/main/google/video-timestamp-query-param.md) - 2023-09-19
+* [Multi-line string in YAML](https://github.com/bpugh/til/blob/main/yaml/multiline-strings.md) - 2023-08-04
 <!-- index ends -->
