@@ -7,7 +7,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ---
 <!-- index starts -->
-59 TILs and counting...
+60 TILs and counting...
 
 ## ai
 
@@ -90,6 +90,10 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Null values in javascript interpolated strings](https://github.com/bpugh/til/blob/main/javascript/string-interpolation-null.md) - 2023-09-01
 * [Mock service worker](https://github.com/bpugh/til/blob/main/javascript/mock-service-worker.md) - 2023-09-13
 * [`every()` returns true for an empty array](https://github.com/bpugh/til/blob/main/javascript/every-returns-true-empty-array.md) - 2023-11-01
+
+## node
+
+* [Override nested dependencies with npm](https://github.com/bpugh/til/blob/main/node/npm-overrides.md) - 2023-11-06
 
 ## powershell
 
