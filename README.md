@@ -7,7 +7,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ---
 <!-- index starts -->
-60 TILs and counting...
+62 TILs and counting...
 
 ## ai
 
@@ -38,6 +38,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Stacking context affects z-index](https://github.com/bpugh/til/blob/main/css/stacking-context.md) - 2023-06-30
 * [CSS accent-color property](https://github.com/bpugh/til/blob/main/css/accent-color.md) - 2023-09-07
 * [CSS Nesting](https://github.com/bpugh/til/blob/main/css/css-nesting.md) - 2023-09-14
+* [`lh` and `rlh` units](https://github.com/bpugh/til/blob/main/css/line-height-units.md) - 2023-11-09
 
 ## devtools
 
@@ -94,6 +95,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 ## node
 
 * [Override nested dependencies with npm](https://github.com/bpugh/til/blob/main/node/npm-overrides.md) - 2023-11-06
+* [Native node import path aliases](https://github.com/bpugh/til/blob/main/node/import-aliases.md) - 2023-11-08
 
 ## powershell
 
