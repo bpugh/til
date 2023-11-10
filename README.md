@@ -7,7 +7,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ---
 <!-- index starts -->
-62 TILs and counting...
+63 TILs and counting...
 
 ## ai
 
@@ -82,6 +82,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [SVG sprites](https://github.com/bpugh/til/blob/main/html/svg-sprites.md) - 2023-09-28
 * [Use the `valueAsNumber` property of html number inputs](https://github.com/bpugh/til/blob/main/html/valueAsNumber.md) - 2023-10-02
 * [Blob URLs](https://github.com/bpugh/til/blob/main/html/blob-url.md) - 2023-11-02
+* [Disabled buttons are bad for accessibility](https://github.com/bpugh/til/blob/main/html/disabled-buttons-bad-accessibility.md) - 2023-11-10
 
 ## javascript
 
