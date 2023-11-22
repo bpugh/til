@@ -7,7 +7,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ---
 <!-- index starts -->
-63 TILs and counting...
+65 TILs and counting...
 
 ## ai
 
@@ -70,6 +70,10 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [push.autoSetupRemote](https://github.com/bpugh/til/blob/main/git/auto-setup-remote.md) - 2023-10-03
 * [Git rerere](https://github.com/bpugh/til/blob/main/git/rerere.md) - 2023-10-05
 
+## github
+
+* [](https://github.com/bpugh/til/blob/main/github/dependency-review.md) - 2023-11-15
+
 ## google
 
 * [Specify timestamp in Google Drive video URL](https://github.com/bpugh/til/blob/main/google/video-timestamp-query-param.md) - 2023-09-19
@@ -83,13 +87,14 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Use the `valueAsNumber` property of html number inputs](https://github.com/bpugh/til/blob/main/html/valueAsNumber.md) - 2023-10-02
 * [Blob URLs](https://github.com/bpugh/til/blob/main/html/blob-url.md) - 2023-11-02
 * [Disabled buttons are bad for accessibility](https://github.com/bpugh/til/blob/main/html/disabled-buttons-bad-accessibility.md) - 2023-11-10
+* [The `datalist` HTML element](https://github.com/bpugh/til/blob/main/html/datalist.md) - 2023-11-20
 
 ## javascript
 
 * [Strong typing with JSDoc and Zod](https://github.com/bpugh/til/blob/main/javascript/types-with-jsdoc.md) - 2023-07-13
 * [Javascript Array.prototype.with()](https://github.com/bpugh/til/blob/main/javascript/array-with.md) - 2023-08-11
-* [Object.fromEntries](https://github.com/bpugh/til/blob/main/javascript/from-entries.md) - 2023-08-30
 * [Null values in javascript interpolated strings](https://github.com/bpugh/til/blob/main/javascript/string-interpolation-null.md) - 2023-09-01
+* [Object.fromEntries](https://github.com/bpugh/til/blob/main/javascript/from-entries.md) - 2023-08-30
 * [Mock service worker](https://github.com/bpugh/til/blob/main/javascript/mock-service-worker.md) - 2023-09-13
 * [`every()` returns true for an empty array](https://github.com/bpugh/til/blob/main/javascript/every-returns-true-empty-array.md) - 2023-11-01
 
@@ -108,8 +113,8 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ## sql-server
 
-* [Hid a table in sql server management studio](https://github.com/bpugh/til/blob/main/sql-server/system-table.md) - 2023-07-06
 * [Use a table variable to hold a list of values](https://github.com/bpugh/til/blob/main/sql-server/table-variables.md) - 2023-07-04
+* [Hid a table in sql server management studio](https://github.com/bpugh/til/blob/main/sql-server/system-table.md) - 2023-07-06
 
 ## typescript
 
