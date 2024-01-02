@@ -7,7 +7,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ---
 <!-- index starts -->
-65 TILs and counting...
+69 TILs and counting...
 
 ## ai
 
@@ -39,6 +39,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [CSS accent-color property](https://github.com/bpugh/til/blob/main/css/accent-color.md) - 2023-09-07
 * [CSS Nesting](https://github.com/bpugh/til/blob/main/css/css-nesting.md) - 2023-09-14
 * [`lh` and `rlh` units](https://github.com/bpugh/til/blob/main/css/line-height-units.md) - 2023-11-09
+* [Flow spacing and the lobotomized owl](https://github.com/bpugh/til/blob/main/css/flow-spacing.md) - 2023-11-29
 
 ## devtools
 
@@ -77,6 +78,8 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 ## google
 
 * [Specify timestamp in Google Drive video URL](https://github.com/bpugh/til/blob/main/google/video-timestamp-query-param.md) - 2023-09-19
+* [Display the week number in Google Calendar](https://github.com/bpugh/til/blob/main/google/show-week-number-calendar.md) - 2023-12-05
+* [Add alt text to presentation slides](https://github.com/bpugh/til/blob/main/google/alt-text-google-slides.md) - 2023-12-06
 
 ## html
 
@@ -113,13 +116,17 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ## sql-server
 
-* [Use a table variable to hold a list of values](https://github.com/bpugh/til/blob/main/sql-server/table-variables.md) - 2023-07-04
 * [Hid a table in sql server management studio](https://github.com/bpugh/til/blob/main/sql-server/system-table.md) - 2023-07-06
+* [Use a table variable to hold a list of values](https://github.com/bpugh/til/blob/main/sql-server/table-variables.md) - 2023-07-04
 
 ## typescript
 
 * [Nominal types in Typescript](https://github.com/bpugh/til/blob/main/typescript/nominal-types.md) - 2023-08-01
 * [Pretty Typescript errors Vscode extension](https://github.com/bpugh/til/blob/main/typescript/error-extension.md) - 2023-08-21
+
+## video
+
+* [Trim videos without re-encoding](https://github.com/bpugh/til/blob/main/video/trim-without-reencoding.md) - 2023-11-27
 
 ## visual-studio
 
@@ -131,8 +138,8 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 ## vscode
 
 * [VS code can show the required HTML structure for a CSS selector](https://github.com/bpugh/til/blob/main/vscode/hover-css-selector.md) - 2023-07-21
-* [Paste a URL as a markdown link](https://github.com/bpugh/til/blob/main/vscode/paste-markdown-url.md) - 2023-08-03
 * [You can easily wrap text with HTML tags](https://github.com/bpugh/til/blob/main/vscode/wrap-text-html.md) - 2023-07-27
+* [Paste a URL as a markdown link](https://github.com/bpugh/til/blob/main/vscode/paste-markdown-url.md) - 2023-08-03
 * [Dev containers](https://github.com/bpugh/til/blob/main/vscode/devcontainers.md) - 2023-09-11
 * [Preserve case with find and replace](https://github.com/bpugh/til/blob/main/vscode/find-replace-preserve-case.md) - 2023-09-29
 
