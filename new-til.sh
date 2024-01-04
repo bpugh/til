@@ -25,7 +25,8 @@ create_markdown_file() {
 
   echo "Created ${fullpath} with YAML front matter."
 
-  code $fullpath
+  # open new file in vscode in current directory
+  code $fullpath .
 }
 
 # Usage: new-til.sh <path> <filename>
