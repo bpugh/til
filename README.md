@@ -7,7 +7,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ---
 <!-- index starts -->
-69 TILs and counting...
+71 TILs and counting...
 
 ## ai
 
@@ -32,6 +32,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 * [Ternary in C# string interpolation](https://github.com/bpugh/til/blob/main/csharp/string-interpolation.md) - 2023-08-23
 * [Calling an extension method on a null instance](https://github.com/bpugh/til/blob/main/csharp/string-extension-method.md) - 2023-10-19
+* [Collection expressions](https://github.com/bpugh/til/blob/main/csharp/collection-expressions.md) - 2023-12-14
 
 ## css
 
@@ -47,6 +48,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Find all CSS changes in Chrome DevTools](https://github.com/bpugh/til/blob/main/devtools/css-changes.md) - 2023-08-15
 * [Emulate page focus](https://github.com/bpugh/til/blob/main/devtools/emulate-focused-page.md) - 2023-08-28
 * [Toggle CSS classes in Devtools](https://github.com/bpugh/til/blob/main/devtools/toggle-css-classes.md) - 2023-10-13
+* [Local overrides in Chrome DevTools](https://github.com/bpugh/til/blob/main/devtools/local-overrides.md) - 2023-12-11
 
 ## docker
 
