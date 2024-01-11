@@ -7,7 +7,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ---
 <!-- index starts -->
-71 TILs and counting...
+73 TILs and counting...
 
 ## ai
 
@@ -41,6 +41,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [CSS Nesting](https://github.com/bpugh/til/blob/main/css/css-nesting.md) - 2023-09-14
 * [`lh` and `rlh` units](https://github.com/bpugh/til/blob/main/css/line-height-units.md) - 2023-11-09
 * [Flow spacing and the lobotomized owl](https://github.com/bpugh/til/blob/main/css/flow-spacing.md) - 2023-11-29
+* [Smooth scrolling](https://github.com/bpugh/til/blob/main/css/smooth-scrolling.md) - 2024-01-08
 
 ## devtools
 
@@ -136,6 +137,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Visual Studio 2022 can stage individual lines in git](https://github.com/bpugh/til/blob/main/visual-studio/line-staging.md) - 2023-07-12
 * [You can save window layouts in Visual Studio](https://github.com/bpugh/til/blob/main/visual-studio/save-window-layout.md) - 2023-07-31
 * [Copy git link extension](https://github.com/bpugh/til/blob/main/visual-studio/copy-git-link.md) - 2023-10-11
+* [Copy Nice Extension](https://github.com/bpugh/til/blob/main/visual-studio/copy-nice.md) - 2024-01-10
 
 ## vscode
 
