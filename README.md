@@ -7,7 +7,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ---
 <!-- index starts -->
-73 TILs and counting...
+74 TILs and counting...
 
 ## ai
 
@@ -94,6 +94,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Blob URLs](https://github.com/bpugh/til/blob/main/html/blob-url.md) - 2023-11-02
 * [Disabled buttons are bad for accessibility](https://github.com/bpugh/til/blob/main/html/disabled-buttons-bad-accessibility.md) - 2023-11-10
 * [The `datalist` HTML element](https://github.com/bpugh/til/blob/main/html/datalist.md) - 2023-11-20
+* [Thin Space](https://github.com/bpugh/til/blob/main/html/thin-space.md) - 2024-01-12
 
 ## javascript
 
