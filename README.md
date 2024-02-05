@@ -7,7 +7,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ---
 <!-- index starts -->
-75 TILs and counting...
+82 TILs and counting...
 
 ## ai
 
@@ -42,7 +42,8 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [`lh` and `rlh` units](https://github.com/bpugh/til/blob/main/css/line-height-units.md) - 2023-11-09
 * [Flow spacing and the lobotomized owl](https://github.com/bpugh/til/blob/main/css/flow-spacing.md) - 2023-11-29
 * [Smooth scrolling](https://github.com/bpugh/til/blob/main/css/smooth-scrolling.md) - 2024-01-08
-* [](https://github.com/bpugh/til/blob/main/css/darken-colors-color-mix.md) - 2024-01-15
+* [Dynamically darken or lighten a color in CSS](https://github.com/bpugh/til/blob/main/css/darken-colors-color-mix.md) - 2024-01-15
+* [font-variant-numeric](https://github.com/bpugh/til/blob/main/css/font-variant-numeric.md) - 2024-02-01
 
 ## devtools
 
@@ -51,6 +52,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Emulate page focus](https://github.com/bpugh/til/blob/main/devtools/emulate-focused-page.md) - 2023-08-28
 * [Toggle CSS classes in Devtools](https://github.com/bpugh/til/blob/main/devtools/toggle-css-classes.md) - 2023-10-13
 * [Local overrides in Chrome DevTools](https://github.com/bpugh/til/blob/main/devtools/local-overrides.md) - 2023-12-11
+* [sourceURL pragma](https://github.com/bpugh/til/blob/main/devtools/inline-script-sourceurl.md) - 2024-01-29
 
 ## docker
 
@@ -74,6 +76,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [git-absorb](https://github.com/bpugh/til/blob/main/git/git-absorb.md) - 2023-10-04
 * [push.autoSetupRemote](https://github.com/bpugh/til/blob/main/git/auto-setup-remote.md) - 2023-10-03
 * [Git rerere](https://github.com/bpugh/til/blob/main/git/rerere.md) - 2023-10-05
+* [Git clean interactive](https://github.com/bpugh/til/blob/main/git/git-clean.md) - 2024-01-23
 
 ## github
 
@@ -96,6 +99,8 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Disabled buttons are bad for accessibility](https://github.com/bpugh/til/blob/main/html/disabled-buttons-bad-accessibility.md) - 2023-11-10
 * [The `datalist` HTML element](https://github.com/bpugh/til/blob/main/html/datalist.md) - 2023-11-20
 * [Thin Space](https://github.com/bpugh/til/blob/main/html/thin-space.md) - 2024-01-12
+* [Disable entire form](https://github.com/bpugh/til/blob/main/html/disable-form.md) - 2024-01-24
+* [CSP `connect-src` directive](https://github.com/bpugh/til/blob/main/html/csp-connect-src.md) - 2024-01-26
 
 ## javascript
 
@@ -105,11 +110,13 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Object.fromEntries](https://github.com/bpugh/til/blob/main/javascript/from-entries.md) - 2023-08-30
 * [Mock service worker](https://github.com/bpugh/til/blob/main/javascript/mock-service-worker.md) - 2023-09-13
 * [`every()` returns true for an empty array](https://github.com/bpugh/til/blob/main/javascript/every-returns-true-empty-array.md) - 2023-11-01
+* [Javascript Array `with()` method](https://github.com/bpugh/til/blob/main/javascript/array-with-method.md) - 2024-01-31
 
 ## node
 
 * [Override nested dependencies with npm](https://github.com/bpugh/til/blob/main/node/npm-overrides.md) - 2023-11-06
 * [Native node import path aliases](https://github.com/bpugh/til/blob/main/node/import-aliases.md) - 2023-11-08
+* [Fix package-lock.json merge conflicts](https://github.com/bpugh/til/blob/main/node/package-lock-conflicts.md) - 2024-01-16
 
 ## powershell
 
@@ -121,8 +128,8 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ## sql-server
 
-* [Hid a table in sql server management studio](https://github.com/bpugh/til/blob/main/sql-server/system-table.md) - 2023-07-06
 * [Use a table variable to hold a list of values](https://github.com/bpugh/til/blob/main/sql-server/table-variables.md) - 2023-07-04
+* [Hide a table in sql server management studio](https://github.com/bpugh/til/blob/main/sql-server/system-table.md) - 2023-07-06
 
 ## typescript
 
