@@ -7,7 +7,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ---
 <!-- index starts -->
-82 TILs and counting...
+87 TILs and counting...
 
 ## ai
 
@@ -28,6 +28,10 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Highlight text in markdown](https://github.com/bpugh/til/blob/main/azure-devops/markdown-highlight.md) - 2023-09-22
 * [Conditional logic in pipelines YAML](https://github.com/bpugh/til/blob/main/azure-devops/conditional-yaml.md) - 2023-10-16
 
+## containers
+
+* [lazydocker](https://github.com/bpugh/til/blob/main/containers/lazydocker.md) - 2023-07-24
+
 ## csharp
 
 * [Ternary in C# string interpolation](https://github.com/bpugh/til/blob/main/csharp/string-interpolation.md) - 2023-08-23
@@ -42,8 +46,9 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [`lh` and `rlh` units](https://github.com/bpugh/til/blob/main/css/line-height-units.md) - 2023-11-09
 * [Flow spacing and the lobotomized owl](https://github.com/bpugh/til/blob/main/css/flow-spacing.md) - 2023-11-29
 * [Smooth scrolling](https://github.com/bpugh/til/blob/main/css/smooth-scrolling.md) - 2024-01-08
-* [Dynamically darken or lighten a color in CSS](https://github.com/bpugh/til/blob/main/css/darken-colors-color-mix.md) - 2024-01-15
 * [font-variant-numeric](https://github.com/bpugh/til/blob/main/css/font-variant-numeric.md) - 2024-02-01
+* [Dynamically darken or lighten a color in CSS](https://github.com/bpugh/til/blob/main/css/darken-colors-color-mix.md) - 2024-01-15
+* [Logical Properties](https://github.com/bpugh/til/blob/main/css/logical-properties.md) - 2024-02-15
 
 ## devtools
 
@@ -53,10 +58,6 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Toggle CSS classes in Devtools](https://github.com/bpugh/til/blob/main/devtools/toggle-css-classes.md) - 2023-10-13
 * [Local overrides in Chrome DevTools](https://github.com/bpugh/til/blob/main/devtools/local-overrides.md) - 2023-12-11
 * [sourceURL pragma](https://github.com/bpugh/til/blob/main/devtools/inline-script-sourceurl.md) - 2024-01-29
-
-## docker
-
-* [lazydocker](https://github.com/bpugh/til/blob/main/docker/lazydocker.md) - 2023-07-24
 
 ## documentation
 
@@ -73,10 +74,11 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Ignore commits in Git Blame with --ignore-revs-file](https://github.com/bpugh/til/blob/main/git/ignore-revs-file.md) - 2023-08-17
 * [Delta pager for Git](https://github.com/bpugh/til/blob/main/git/delta-pager.md) - 2023-09-05
 * [--update-refs won't update a ref if it's currently checked out in a working directory](https://github.com/bpugh/til/blob/main/git/update-refs-working-directory.md) - 2023-09-25
-* [git-absorb](https://github.com/bpugh/til/blob/main/git/git-absorb.md) - 2023-10-04
 * [push.autoSetupRemote](https://github.com/bpugh/til/blob/main/git/auto-setup-remote.md) - 2023-10-03
+* [git-absorb](https://github.com/bpugh/til/blob/main/git/git-absorb.md) - 2023-10-04
 * [Git rerere](https://github.com/bpugh/til/blob/main/git/rerere.md) - 2023-10-05
 * [Git clean interactive](https://github.com/bpugh/til/blob/main/git/git-clean.md) - 2024-01-23
+* [Git Maintenance](https://github.com/bpugh/til/blob/main/git/git-maintanence.md) - 2024-02-12
 
 ## github
 
@@ -111,6 +113,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Mock service worker](https://github.com/bpugh/til/blob/main/javascript/mock-service-worker.md) - 2023-09-13
 * [`every()` returns true for an empty array](https://github.com/bpugh/til/blob/main/javascript/every-returns-true-empty-array.md) - 2023-11-01
 * [Javascript Array `with()` method](https://github.com/bpugh/til/blob/main/javascript/array-with-method.md) - 2024-01-31
+* [Number.isInteger()](https://github.com/bpugh/til/blob/main/javascript/number-isInteger.md) - 2024-02-08
 
 ## node
 
@@ -126,10 +129,14 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 * [Comment styles in React](https://github.com/bpugh/til/blob/main/react/single-line-comments.md) - 2023-08-08
 
+## sql
+
+* [Truncate table](https://github.com/bpugh/til/blob/main/sql/truncate-table.md) - 2024-02-20
+
 ## sql-server
 
-* [Use a table variable to hold a list of values](https://github.com/bpugh/til/blob/main/sql-server/table-variables.md) - 2023-07-04
 * [Hide a table in sql server management studio](https://github.com/bpugh/til/blob/main/sql-server/system-table.md) - 2023-07-06
+* [Use a table variable to hold a list of values](https://github.com/bpugh/til/blob/main/sql-server/table-variables.md) - 2023-07-04
 
 ## typescript
 
@@ -151,10 +158,14 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 ## vscode
 
 * [VS code can show the required HTML structure for a CSS selector](https://github.com/bpugh/til/blob/main/vscode/hover-css-selector.md) - 2023-07-21
-* [You can easily wrap text with HTML tags](https://github.com/bpugh/til/blob/main/vscode/wrap-text-html.md) - 2023-07-27
 * [Paste a URL as a markdown link](https://github.com/bpugh/til/blob/main/vscode/paste-markdown-url.md) - 2023-08-03
+* [You can easily wrap text with HTML tags](https://github.com/bpugh/til/blob/main/vscode/wrap-text-html.md) - 2023-07-27
 * [Dev containers](https://github.com/bpugh/til/blob/main/vscode/devcontainers.md) - 2023-09-11
 * [Preserve case with find and replace](https://github.com/bpugh/til/blob/main/vscode/find-replace-preserve-case.md) - 2023-09-29
+
+## windows
+
+* [Windows Dev Drive](https://github.com/bpugh/til/blob/main/windows/dev-drive.md) - 2024-02-26
 
 ## yaml
 
