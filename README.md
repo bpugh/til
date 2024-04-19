@@ -7,7 +7,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ---
 <!-- index starts -->
-87 TILs and counting...
+90 TILs and counting...
 
 ## ai
 
@@ -28,9 +28,14 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Highlight text in markdown](https://github.com/bpugh/til/blob/main/azure-devops/markdown-highlight.md) - 2023-09-22
 * [Conditional logic in pipelines YAML](https://github.com/bpugh/til/blob/main/azure-devops/conditional-yaml.md) - 2023-10-16
 
+## bash
+
+* [Shell Check](https://github.com/bpugh/til/blob/main/bash/shell-check.md) - 2024-03-12
+
 ## containers
 
 * [lazydocker](https://github.com/bpugh/til/blob/main/containers/lazydocker.md) - 2023-07-24
+* [Podman is a nice alternative to Docker](https://github.com/bpugh/til/blob/main/containers/podman.md) - 2024-04-18
 
 ## csharp
 
@@ -46,8 +51,8 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [`lh` and `rlh` units](https://github.com/bpugh/til/blob/main/css/line-height-units.md) - 2023-11-09
 * [Flow spacing and the lobotomized owl](https://github.com/bpugh/til/blob/main/css/flow-spacing.md) - 2023-11-29
 * [Smooth scrolling](https://github.com/bpugh/til/blob/main/css/smooth-scrolling.md) - 2024-01-08
-* [Dynamically darken or lighten a color in CSS](https://github.com/bpugh/til/blob/main/css/darken-colors-color-mix.md) - 2024-01-15
 * [font-variant-numeric](https://github.com/bpugh/til/blob/main/css/font-variant-numeric.md) - 2024-02-01
+* [Dynamically darken or lighten a color in CSS](https://github.com/bpugh/til/blob/main/css/darken-colors-color-mix.md) - 2024-01-15
 * [Logical Properties](https://github.com/bpugh/til/blob/main/css/logical-properties.md) - 2024-02-15
 
 ## devtools
@@ -74,8 +79,8 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Ignore commits in Git Blame with --ignore-revs-file](https://github.com/bpugh/til/blob/main/git/ignore-revs-file.md) - 2023-08-17
 * [Delta pager for Git](https://github.com/bpugh/til/blob/main/git/delta-pager.md) - 2023-09-05
 * [--update-refs won't update a ref if it's currently checked out in a working directory](https://github.com/bpugh/til/blob/main/git/update-refs-working-directory.md) - 2023-09-25
-* [git-absorb](https://github.com/bpugh/til/blob/main/git/git-absorb.md) - 2023-10-04
 * [push.autoSetupRemote](https://github.com/bpugh/til/blob/main/git/auto-setup-remote.md) - 2023-10-03
+* [git-absorb](https://github.com/bpugh/til/blob/main/git/git-absorb.md) - 2023-10-04
 * [Git rerere](https://github.com/bpugh/til/blob/main/git/rerere.md) - 2023-10-05
 * [Git clean interactive](https://github.com/bpugh/til/blob/main/git/git-clean.md) - 2024-01-23
 * [Git Maintenance](https://github.com/bpugh/til/blob/main/git/git-maintanence.md) - 2024-02-12
@@ -101,15 +106,16 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Disabled buttons are bad for accessibility](https://github.com/bpugh/til/blob/main/html/disabled-buttons-bad-accessibility.md) - 2023-11-10
 * [The `datalist` HTML element](https://github.com/bpugh/til/blob/main/html/datalist.md) - 2023-11-20
 * [Thin Space](https://github.com/bpugh/til/blob/main/html/thin-space.md) - 2024-01-12
-* [Disable entire form](https://github.com/bpugh/til/blob/main/html/disable-form.md) - 2024-01-24
 * [CSP `connect-src` directive](https://github.com/bpugh/til/blob/main/html/csp-connect-src.md) - 2024-01-26
+* [Disable entire form](https://github.com/bpugh/til/blob/main/html/disable-form.md) - 2024-01-24
+* [Preload critical assets](https://github.com/bpugh/til/blob/main/html/preload-assets.md) - 2024-03-13
 
 ## javascript
 
 * [Strong typing with JSDoc and Zod](https://github.com/bpugh/til/blob/main/javascript/types-with-jsdoc.md) - 2023-07-13
 * [Javascript Array.prototype.with()](https://github.com/bpugh/til/blob/main/javascript/array-with.md) - 2023-08-11
-* [Object.fromEntries](https://github.com/bpugh/til/blob/main/javascript/from-entries.md) - 2023-08-30
 * [Null values in javascript interpolated strings](https://github.com/bpugh/til/blob/main/javascript/string-interpolation-null.md) - 2023-09-01
+* [Object.fromEntries](https://github.com/bpugh/til/blob/main/javascript/from-entries.md) - 2023-08-30
 * [Mock service worker](https://github.com/bpugh/til/blob/main/javascript/mock-service-worker.md) - 2023-09-13
 * [`every()` returns true for an empty array](https://github.com/bpugh/til/blob/main/javascript/every-returns-true-empty-array.md) - 2023-11-01
 * [Javascript Array `with()` method](https://github.com/bpugh/til/blob/main/javascript/array-with-method.md) - 2024-01-31
@@ -135,8 +141,8 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ## sql-server
 
-* [Hide a table in sql server management studio](https://github.com/bpugh/til/blob/main/sql-server/system-table.md) - 2023-07-06
 * [Use a table variable to hold a list of values](https://github.com/bpugh/til/blob/main/sql-server/table-variables.md) - 2023-07-04
+* [Hide a table in sql server management studio](https://github.com/bpugh/til/blob/main/sql-server/system-table.md) - 2023-07-06
 
 ## typescript
 
