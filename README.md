@@ -7,7 +7,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ---
 <!-- index starts -->
-90 TILs and counting...
+91 TILs and counting...
 
 ## ai
 
@@ -63,6 +63,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Toggle CSS classes in Devtools](https://github.com/bpugh/til/blob/main/devtools/toggle-css-classes.md) - 2023-10-13
 * [Local overrides in Chrome DevTools](https://github.com/bpugh/til/blob/main/devtools/local-overrides.md) - 2023-12-11
 * [sourceURL pragma](https://github.com/bpugh/til/blob/main/devtools/inline-script-sourceurl.md) - 2024-01-29
+* [Locally test on old version of Chrome](https://github.com/bpugh/til/blob/main/devtools/chromium-versions.md) - 2024-05-20
 
 ## documentation
 
@@ -114,8 +115,8 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 * [Strong typing with JSDoc and Zod](https://github.com/bpugh/til/blob/main/javascript/types-with-jsdoc.md) - 2023-07-13
 * [Javascript Array.prototype.with()](https://github.com/bpugh/til/blob/main/javascript/array-with.md) - 2023-08-11
-* [Null values in javascript interpolated strings](https://github.com/bpugh/til/blob/main/javascript/string-interpolation-null.md) - 2023-09-01
 * [Object.fromEntries](https://github.com/bpugh/til/blob/main/javascript/from-entries.md) - 2023-08-30
+* [Null values in javascript interpolated strings](https://github.com/bpugh/til/blob/main/javascript/string-interpolation-null.md) - 2023-09-01
 * [Mock service worker](https://github.com/bpugh/til/blob/main/javascript/mock-service-worker.md) - 2023-09-13
 * [`every()` returns true for an empty array](https://github.com/bpugh/til/blob/main/javascript/every-returns-true-empty-array.md) - 2023-11-01
 * [Javascript Array `with()` method](https://github.com/bpugh/til/blob/main/javascript/array-with-method.md) - 2024-01-31
