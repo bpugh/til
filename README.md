@@ -7,7 +7,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ---
 <!-- index starts -->
-91 TILs and counting...
+92 TILs and counting...
 
 ## ai
 
@@ -110,6 +110,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [CSP `connect-src` directive](https://github.com/bpugh/til/blob/main/html/csp-connect-src.md) - 2024-01-26
 * [Disable entire form](https://github.com/bpugh/til/blob/main/html/disable-form.md) - 2024-01-24
 * [Preload critical assets](https://github.com/bpugh/til/blob/main/html/preload-assets.md) - 2024-03-13
+* [BFCache](https://github.com/bpugh/til/blob/main/html/bfcache.md) - 2024-05-21
 
 ## javascript
 
