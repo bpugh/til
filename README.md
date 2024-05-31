@@ -7,7 +7,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ---
 <!-- index starts -->
-95 TILs and counting...
+96 TILs and counting...
 
 ## ai
 
@@ -54,6 +54,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [font-variant-numeric](https://github.com/bpugh/til/blob/main/css/font-variant-numeric.md) - 2024-02-01
 * [Dynamically darken or lighten a color in CSS](https://github.com/bpugh/til/blob/main/css/darken-colors-color-mix.md) - 2024-01-15
 * [Logical Properties](https://github.com/bpugh/til/blob/main/css/logical-properties.md) - 2024-02-15
+* [](https://github.com/bpugh/til/blob/main/css/viewport-scrollbar-problem.md) - 2024-05-28
 
 ## devtools
 
