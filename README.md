@@ -7,7 +7,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ---
 <!-- index starts -->
-92 TILs and counting...
+95 TILs and counting...
 
 ## ai
 
@@ -64,6 +64,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Local overrides in Chrome DevTools](https://github.com/bpugh/til/blob/main/devtools/local-overrides.md) - 2023-12-11
 * [sourceURL pragma](https://github.com/bpugh/til/blob/main/devtools/inline-script-sourceurl.md) - 2024-01-29
 * [Locally test on old version of Chrome](https://github.com/bpugh/til/blob/main/devtools/chromium-versions.md) - 2024-05-20
+* [Penpot](https://github.com/bpugh/til/blob/main/devtools/penpot.md) - 2024-05-22
 
 ## documentation
 
@@ -85,10 +86,12 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Git rerere](https://github.com/bpugh/til/blob/main/git/rerere.md) - 2023-10-05
 * [Git clean interactive](https://github.com/bpugh/til/blob/main/git/git-clean.md) - 2024-01-23
 * [Git Maintenance](https://github.com/bpugh/til/blob/main/git/git-maintanence.md) - 2024-02-12
+* [DeepGit blame](https://github.com/bpugh/til/blob/main/git/deepgit.md) - 2024-01-19
+* [](https://github.com/bpugh/til/blob/main/git/view-merge-conflicts.md) - 2024-05-29
 
 ## github
 
-* [](https://github.com/bpugh/til/blob/main/github/dependency-review.md) - 2023-11-15
+* [Dependency Review](https://github.com/bpugh/til/blob/main/github/dependency-review.md) - 2023-11-15
 
 ## google
 
