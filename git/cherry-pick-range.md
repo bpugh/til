@@ -42,6 +42,7 @@ A---B---C---D  main
 
 which is handy if you started working on `topicB` and thought you were branched off of `main` instead of `topicA` or if `topicA` got merged or squashed from under you.
 This [SO answer](https://stackoverflow.com/a/29916361/1715138) does a great job explaining `--onto`.
+
 Just remember: `git rebase --onto <newparent> <oldparent> <until>`
 
 To accomplish the same with cherry-pick would require something like:
