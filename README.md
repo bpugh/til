@@ -7,7 +7,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ---
 <!-- index starts -->
-96 TILs and counting...
+99 TILs and counting...
 
 ## ai
 
@@ -51,8 +51,8 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [`lh` and `rlh` units](https://github.com/bpugh/til/blob/main/css/line-height-units.md) - 2023-11-09
 * [Flow spacing and the lobotomized owl](https://github.com/bpugh/til/blob/main/css/flow-spacing.md) - 2023-11-29
 * [Smooth scrolling](https://github.com/bpugh/til/blob/main/css/smooth-scrolling.md) - 2024-01-08
-* [font-variant-numeric](https://github.com/bpugh/til/blob/main/css/font-variant-numeric.md) - 2024-02-01
 * [Dynamically darken or lighten a color in CSS](https://github.com/bpugh/til/blob/main/css/darken-colors-color-mix.md) - 2024-01-15
+* [font-variant-numeric](https://github.com/bpugh/til/blob/main/css/font-variant-numeric.md) - 2024-02-01
 * [Logical Properties](https://github.com/bpugh/til/blob/main/css/logical-properties.md) - 2024-02-15
 * [](https://github.com/bpugh/til/blob/main/css/viewport-scrollbar-problem.md) - 2024-05-28
 
@@ -85,10 +85,12 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [push.autoSetupRemote](https://github.com/bpugh/til/blob/main/git/auto-setup-remote.md) - 2023-10-03
 * [git-absorb](https://github.com/bpugh/til/blob/main/git/git-absorb.md) - 2023-10-04
 * [Git rerere](https://github.com/bpugh/til/blob/main/git/rerere.md) - 2023-10-05
+* [Easily reference upstream branch](https://github.com/bpugh/til/blob/main/git/reference-upstream-branch.md) - 2024-01-04
 * [Git clean interactive](https://github.com/bpugh/til/blob/main/git/git-clean.md) - 2024-01-23
 * [Git Maintenance](https://github.com/bpugh/til/blob/main/git/git-maintanence.md) - 2024-02-12
 * [DeepGit blame](https://github.com/bpugh/til/blob/main/git/deepgit.md) - 2024-01-19
-* [](https://github.com/bpugh/til/blob/main/git/view-merge-conflicts.md) - 2024-05-29
+* [View the conflicts resolved in a merge commit](https://github.com/bpugh/til/blob/main/git/view-merge-conflicts.md) - 2024-05-29
+* [Cherry pick a range of commits](https://github.com/bpugh/til/blob/main/git/cherry-pick-range.md) - 2024-06-04
 
 ## github
 
@@ -111,8 +113,8 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Disabled buttons are bad for accessibility](https://github.com/bpugh/til/blob/main/html/disabled-buttons-bad-accessibility.md) - 2023-11-10
 * [The `datalist` HTML element](https://github.com/bpugh/til/blob/main/html/datalist.md) - 2023-11-20
 * [Thin Space](https://github.com/bpugh/til/blob/main/html/thin-space.md) - 2024-01-12
-* [CSP `connect-src` directive](https://github.com/bpugh/til/blob/main/html/csp-connect-src.md) - 2024-01-26
 * [Disable entire form](https://github.com/bpugh/til/blob/main/html/disable-form.md) - 2024-01-24
+* [CSP `connect-src` directive](https://github.com/bpugh/til/blob/main/html/csp-connect-src.md) - 2024-01-26
 * [Preload critical assets](https://github.com/bpugh/til/blob/main/html/preload-assets.md) - 2024-03-13
 * [BFCache](https://github.com/bpugh/til/blob/main/html/bfcache.md) - 2024-05-21
 
@@ -126,6 +128,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [`every()` returns true for an empty array](https://github.com/bpugh/til/blob/main/javascript/every-returns-true-empty-array.md) - 2023-11-01
 * [Javascript Array `with()` method](https://github.com/bpugh/til/blob/main/javascript/array-with-method.md) - 2024-01-31
 * [Number.isInteger()](https://github.com/bpugh/til/blob/main/javascript/number-isInteger.md) - 2024-02-08
+* [Nullish Coalescing Operator](https://github.com/bpugh/til/blob/main/javascript/nullish-coalescing-operator.md) - 2024-06-03
 
 ## node
 
