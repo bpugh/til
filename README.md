@@ -7,7 +7,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ---
 <!-- index starts -->
-99 TILs and counting...
+100 TILs and counting...
 
 ## ai
 
@@ -66,6 +66,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [sourceURL pragma](https://github.com/bpugh/til/blob/main/devtools/inline-script-sourceurl.md) - 2024-01-29
 * [Locally test on old version of Chrome](https://github.com/bpugh/til/blob/main/devtools/chromium-versions.md) - 2024-05-20
 * [Penpot](https://github.com/bpugh/til/blob/main/devtools/penpot.md) - 2024-05-22
+* [Chrome devtools ignores form resubmission](https://github.com/bpugh/til/blob/main/devtools/ignore-form-resubmission.md) - 2024-06-12
 
 ## documentation
 
@@ -82,8 +83,8 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Ignore commits in Git Blame with --ignore-revs-file](https://github.com/bpugh/til/blob/main/git/ignore-revs-file.md) - 2023-08-17
 * [Delta pager for Git](https://github.com/bpugh/til/blob/main/git/delta-pager.md) - 2023-09-05
 * [--update-refs won't update a ref if it's currently checked out in a working directory](https://github.com/bpugh/til/blob/main/git/update-refs-working-directory.md) - 2023-09-25
-* [push.autoSetupRemote](https://github.com/bpugh/til/blob/main/git/auto-setup-remote.md) - 2023-10-03
 * [git-absorb](https://github.com/bpugh/til/blob/main/git/git-absorb.md) - 2023-10-04
+* [push.autoSetupRemote](https://github.com/bpugh/til/blob/main/git/auto-setup-remote.md) - 2023-10-03
 * [Git rerere](https://github.com/bpugh/til/blob/main/git/rerere.md) - 2023-10-05
 * [Easily reference upstream branch](https://github.com/bpugh/til/blob/main/git/reference-upstream-branch.md) - 2024-01-04
 * [Git clean interactive](https://github.com/bpugh/til/blob/main/git/git-clean.md) - 2024-01-23
@@ -150,8 +151,8 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ## sql-server
 
-* [Use a table variable to hold a list of values](https://github.com/bpugh/til/blob/main/sql-server/table-variables.md) - 2023-07-04
 * [Hide a table in sql server management studio](https://github.com/bpugh/til/blob/main/sql-server/system-table.md) - 2023-07-06
+* [Use a table variable to hold a list of values](https://github.com/bpugh/til/blob/main/sql-server/table-variables.md) - 2023-07-04
 
 ## typescript
 
