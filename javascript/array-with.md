@@ -9,10 +9,10 @@ I just discovered the `with()` method which takes an index value and a value to 
 ``` javascript
 const arr = [1, 2, 3, 4, 5];
 const newArr = arr.with(2, 'a');
-console.log(newArr); // [1, 2, 'a', 3, 4, 5]
+console.log(newArr); // [1, 2, 'a', 4, 5]
 ```
 
-You could definitely do this before with something like `arr[2] = 'a'` but that would modify the original array
+You could do this before with something like `arr[2] = 'a'` but that would modify the original array.
 
 The `with()` method became widely supported in 2021.
 
