@@ -7,7 +7,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ---
 <!-- index starts -->
-100 TILs and counting...
+102 TILs and counting...
 
 ## ai
 
@@ -130,6 +130,8 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Javascript Array `with()` method](https://github.com/bpugh/til/blob/main/javascript/array-with-method.md) - 2024-01-31
 * [Number.isInteger()](https://github.com/bpugh/til/blob/main/javascript/number-isInteger.md) - 2024-02-08
 * [Nullish Coalescing Operator](https://github.com/bpugh/til/blob/main/javascript/nullish-coalescing-operator.md) - 2024-06-03
+* [Use media queries in javascript with the `matchMedia()` method](https://github.com/bpugh/til/blob/main/javascript/match-media.md) - 2024-07-10
+* [Numeric separators](https://github.com/bpugh/til/blob/main/javascript/numeric-separators.md) - 2024-07-02
 
 ## node
 
