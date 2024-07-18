@@ -7,7 +7,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ---
 <!-- index starts -->
-102 TILs and counting...
+104 TILs and counting...
 
 ## ai
 
@@ -55,6 +55,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [font-variant-numeric](https://github.com/bpugh/til/blob/main/css/font-variant-numeric.md) - 2024-02-01
 * [Logical Properties](https://github.com/bpugh/til/blob/main/css/logical-properties.md) - 2024-02-15
 * [](https://github.com/bpugh/til/blob/main/css/viewport-scrollbar-problem.md) - 2024-05-28
+* [:has selector](https://github.com/bpugh/til/blob/main/css/has-selector.md) - 2024-07-12
 
 ## devtools
 
@@ -118,6 +119,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [CSP `connect-src` directive](https://github.com/bpugh/til/blob/main/html/csp-connect-src.md) - 2024-01-26
 * [Preload critical assets](https://github.com/bpugh/til/blob/main/html/preload-assets.md) - 2024-03-13
 * [BFCache](https://github.com/bpugh/til/blob/main/html/bfcache.md) - 2024-05-21
+* [Input modes](https://github.com/bpugh/til/blob/main/html/input-modes.md) - 2024-07-17
 
 ## javascript
 
