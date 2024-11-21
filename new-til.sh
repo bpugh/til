@@ -19,7 +19,6 @@ create_markdown_file() {
   # Add YAML front matter to the file
   echo "---" >> "${fullpath}"
   echo "date: ${date}" >> "${fullpath}"
-  echo "title: " >> "${fullpath}"
   echo "---" >> "${fullpath}"
   echo "" >> "${fullpath}"
   echo "#" >> "${fullpath}"

@@ -1,9 +1,8 @@
 ---
 date: 2024-07-24
-title: 
 ---
 
-#
+# Drag and drop upload
 
 #til that creating a nice drag-and-drop file component using vanilla javascript and the built web APIs is actually fairly easy.
 

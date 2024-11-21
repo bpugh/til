@@ -1,6 +1,5 @@
 ---
 date: 2024-06-19
-title: 
 ---
 
 # bash vs sh in git hooks on windows

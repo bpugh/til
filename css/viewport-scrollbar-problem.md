@@ -1,6 +1,5 @@
 ---
 date: 2024-05-28
-title: The viewport scroll bar problem
 ---
 
 # The viewport scroll bar problem
