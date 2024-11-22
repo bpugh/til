@@ -4,7 +4,7 @@ date: 2024-06-03
 
 # Nullish Coalescing Operator
 
-#til that javascript gained a [nullish coalescing operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing) (`??`) in ECMAScript 2020.
+Today I learned that javascript gained a [nullish coalescing operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing) (`??`) in ECMAScript 2020.
 
 ```js
 const result = potentialEmpty ?? fallbackValue;

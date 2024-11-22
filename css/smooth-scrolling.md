@@ -4,7 +4,7 @@ date: 2024-01-08
 
 # Smooth scrolling
 
-#til that you can now implement smooth scrolling purely with CSS in modern browsers.
+Today I learned that you can now implement smooth scrolling purely with CSS in modern browsers.
 
 By adding the following CSS:
 

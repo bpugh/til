@@ -4,7 +4,7 @@ date: 2023-11-10
 
 # Disabled buttons are bad for accessibility
 
-#til that disabled buttons are potentially bad for accessibility.
+Today I learned that disabled buttons are potentially bad for accessibility.
 
 I realized long ago that disabled buttons can be bad for UX but I just saw Chris Ferdinandi's post [Don't Disable Buttons](https://gomakethings.com/dont-disable-buttons/), and learned that disabled buttons aren't focusable which means they don't work well with screen readers or navigating with the keyboard.
 

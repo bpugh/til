@@ -4,7 +4,7 @@ date: 2024-07-17
 
 # Input modes
 
-#til that iOS changed the way it handles the `inputmode="numeric"` attribute on HTML input elements.
+Today I learned that iOS changed the way it handles the `inputmode="numeric"` attribute on HTML input elements.
 
 It used to display the full number keyboard as shown here:
 
