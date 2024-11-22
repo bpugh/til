@@ -7,12 +7,17 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ---
 <!-- index starts -->
-104 TILs and counting...
+119 TILs and counting...
 
 ## ai
 
 * [Use ChatGPT to explain bash scripts](https://github.com/bpugh/til/blob/main/ai/chatgpt-explains.md) - 2023-07-05
 * [Use ChatGPT to help you write architectural decision records](https://github.com/bpugh/til/blob/main/ai/chatgpt-to-help-write-adr.md) - 2023-11-03
+* [Chain-of-Thought Prompting](https://github.com/bpugh/til/blob/main/ai/train-of-thought.md) - 2024-09-20
+
+## aspnet
+
+* [ASP.NET max upload file size](https://github.com/bpugh/til/blob/main/aspnet/max-upload-file-size.md) - 2024-08-30
 
 ## azure
 
@@ -42,6 +47,7 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Ternary in C# string interpolation](https://github.com/bpugh/til/blob/main/csharp/string-interpolation.md) - 2023-08-23
 * [Calling an extension method on a null instance](https://github.com/bpugh/til/blob/main/csharp/string-extension-method.md) - 2023-10-19
 * [Collection expressions](https://github.com/bpugh/til/blob/main/csharp/collection-expressions.md) - 2023-12-14
+* [Raw string literals in C# 11](https://github.com/bpugh/til/blob/main/csharp/raw-string-literals.md) - 2024-11-18
 
 ## css
 
@@ -54,8 +60,9 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Dynamically darken or lighten a color in CSS](https://github.com/bpugh/til/blob/main/css/darken-colors-color-mix.md) - 2024-01-15
 * [font-variant-numeric](https://github.com/bpugh/til/blob/main/css/font-variant-numeric.md) - 2024-02-01
 * [Logical Properties](https://github.com/bpugh/til/blob/main/css/logical-properties.md) - 2024-02-15
-* [](https://github.com/bpugh/til/blob/main/css/viewport-scrollbar-problem.md) - 2024-05-28
+* [The viewport scroll bar problem](https://github.com/bpugh/til/blob/main/css/viewport-scrollbar-problem.md) - 2024-05-28
 * [:has selector](https://github.com/bpugh/til/blob/main/css/has-selector.md) - 2024-07-12
+* [View transitions API](https://github.com/bpugh/til/blob/main/css/view-transition.md) - 2024-10-22
 
 ## devtools
 
@@ -93,6 +100,8 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [DeepGit blame](https://github.com/bpugh/til/blob/main/git/deepgit.md) - 2024-01-19
 * [View the conflicts resolved in a merge commit](https://github.com/bpugh/til/blob/main/git/view-merge-conflicts.md) - 2024-05-29
 * [Cherry pick a range of commits](https://github.com/bpugh/til/blob/main/git/cherry-pick-range.md) - 2024-06-04
+* [Personal git ignore per repository](https://github.com/bpugh/til/blob/main/git/personal-git-ignore.md) - 2024-11-19
+* [Selectively restoring changes from another branch or commit](https://github.com/bpugh/til/blob/main/git/patch-uses.md) - 2024-11-21
 
 ## github
 
@@ -120,6 +129,9 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Preload critical assets](https://github.com/bpugh/til/blob/main/html/preload-assets.md) - 2024-03-13
 * [BFCache](https://github.com/bpugh/til/blob/main/html/bfcache.md) - 2024-05-21
 * [Input modes](https://github.com/bpugh/til/blob/main/html/input-modes.md) - 2024-07-17
+* [Drag and drop upload](https://github.com/bpugh/til/blob/main/html/drag-drop-upload.md) - 2024-07-24
+* [History API state](https://github.com/bpugh/til/blob/main/html/history-state.md) - 2024-10-07
+* [SRI integrity hash algorithms](https://github.com/bpugh/til/blob/main/html/sri-hash-algorithm.md) - 2024-11-12
 
 ## javascript
 
@@ -134,6 +146,10 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 * [Nullish Coalescing Operator](https://github.com/bpugh/til/blob/main/javascript/nullish-coalescing-operator.md) - 2024-06-03
 * [Use media queries in javascript with the `matchMedia()` method](https://github.com/bpugh/til/blob/main/javascript/match-media.md) - 2024-07-10
 * [Numeric separators](https://github.com/bpugh/til/blob/main/javascript/numeric-separators.md) - 2024-07-02
+* [Abort controller](https://github.com/bpugh/til/blob/main/javascript/abort-fetch.md) - 2024-07-24
+* [Console.trace()](https://github.com/bpugh/til/blob/main/javascript/console-trace.md) - 2024-10-10
+* [UUID v7](https://github.com/bpugh/til/blob/main/javascript/uuid-v7.md) - 2024-08-21
+* [Use `URLSearchParams()` to build a query string](https://github.com/bpugh/til/blob/main/javascript/urlsearchparams-query-string.md) - 2024-11-07
 
 ## node
 
@@ -155,8 +171,8 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 
 ## sql-server
 
-* [Hide a table in sql server management studio](https://github.com/bpugh/til/blob/main/sql-server/system-table.md) - 2023-07-06
 * [Use a table variable to hold a list of values](https://github.com/bpugh/til/blob/main/sql-server/table-variables.md) - 2023-07-04
+* [Hide a table in sql server management studio](https://github.com/bpugh/til/blob/main/sql-server/system-table.md) - 2023-07-06
 
 ## typescript
 
@@ -178,10 +194,12 @@ I've been doing web dev for over a decade and still feel like I'm regularly lear
 ## vscode
 
 * [VS code can show the required HTML structure for a CSS selector](https://github.com/bpugh/til/blob/main/vscode/hover-css-selector.md) - 2023-07-21
-* [You can easily wrap text with HTML tags](https://github.com/bpugh/til/blob/main/vscode/wrap-text-html.md) - 2023-07-27
 * [Paste a URL as a markdown link](https://github.com/bpugh/til/blob/main/vscode/paste-markdown-url.md) - 2023-08-03
+* [You can easily wrap text with HTML tags](https://github.com/bpugh/til/blob/main/vscode/wrap-text-html.md) - 2023-07-27
 * [Dev containers](https://github.com/bpugh/til/blob/main/vscode/devcontainers.md) - 2023-09-11
 * [Preserve case with find and replace](https://github.com/bpugh/til/blob/main/vscode/find-replace-preserve-case.md) - 2023-09-29
+* [HTTP files](https://github.com/bpugh/til/blob/main/vscode/http-files.md) - 2024-09-13
+* [Quickly change the end of a line](https://github.com/bpugh/til/blob/main/vscode/line-ending-regex.md) - 2024-08-20
 
 ## windows
 
